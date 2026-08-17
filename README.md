@@ -15,6 +15,8 @@
 - 集成双路 5 V BUCK、3.3 V LDO、独立舵机电源、电源开关和电池电压检测。
 - 提供无线 UART/SPI、定位、屏幕、姿态传感器、按键和拨码接口。
 - 负责整车供电分配和外设扩展。
+- <img width="1718" height="693" alt="image" src="https://github.com/user-attachments/assets/3fe6eb7f-4476-4874-aaf2-43ba514c9439" />
+
 
 ### 2. TC264 核心板
 
