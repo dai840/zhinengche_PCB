@@ -23,6 +23,10 @@
 - 尺寸约 44 × 52 mm，基于英飞凌 TC264。
 - 包含最小系统、时钟、复位、下载调试和高密度 I/O 引出。
 - 作为整车主控，负责多板通信和传感器数据处理。
+- <img width="974" height="1123" alt="image" src="https://github.com/user-attachments/assets/1a29c5be-ba6b-417d-9544-7f943a9abedf" />
+<img width="986" height="1116" alt="image" src="https://github.com/user-attachments/assets/20279473-925b-46c5-9f3d-352f57c48acc" />
+
+
 
 ### 3. 无刷电机驱动板
 
@@ -30,6 +34,11 @@
 - 配置 B5819WS 自举电路、SMAJ16CA TVS 防护和大容量输入去耦。
 - 使用双路 RY9121E 生成 5 V 和 3.3 V，并支持电池电压检测。
 - 用于无刷电机 BLDC/FOC 控制与主板通信。
+- 采用4层板结构缩小板的大小
+- <img width="1792" height="1127" alt="image" src="https://github.com/user-attachments/assets/8e26b1dc-b275-4569-ae3a-e11759c9821f" />
+<img width="1809" height="1122" alt="image" src="https://github.com/user-attachments/assets/83f9ee2a-820e-4746-bc78-7def91443628" />
+
+
 
 ### 4. 磁编码器板
 
